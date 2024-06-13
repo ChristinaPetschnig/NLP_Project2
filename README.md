@@ -96,3 +96,49 @@ Kepler/K2 Mission Data:
 Website: Kepler and K2 Data Archive
 Description: Offers data from the Kepler space telescope, which has been used to discover thousands of exoplanets by observing distant stars.
 By leveraging these resources, you can access a rich variety of astronomical images and datasets to train and evaluate your image captioning models. Each source provides unique types of data, which can help create a comprehensive dataset for your project.
+
+
+# More specific topics with Datasets space related
+
+Here are ten specific topics related to astronomy and space exploration, each with a brief description of the type of data and the focus of the project, particularly leveraging data from sources like the Hubble Space Telescope:
+
+Galaxy Morphology Classification:
+
+Description: Automatically classify the shapes and types of galaxies (spiral, elliptical, irregular) using images from the Hubble Space Telescope.
+Dataset: High-resolution images of galaxies from the Hubble Legacy Archive.
+Stellar Birth Regions:
+
+Description: Caption images of star-forming regions (nebulae) to describe the stages of star formation and identify notable features.
+Dataset: Images of nebulae from the Hubble Legacy Archive.
+Exoplanetary Systems:
+
+Description: Generate descriptive captions for images of exoplanetary systems, detailing planetary transits and characteristics.
+Dataset: Data and images from the Kepler/K2 mission.
+Supernova Remnants:
+
+Description: Caption images of supernova remnants to describe their structure and the aftermath of stellar explosions.
+Dataset: Images of supernova remnants from the Hubble Space Telescope.
+Black Hole Vicinity:
+
+Description: Generate captions for images depicting the areas around black holes, describing accretion disks, jets, and gravitational effects.
+Dataset: High-energy observations and images from the Hubble and Chandra X-ray Observatory.
+Cosmic Collisions:
+
+Description: Caption images of galaxy collisions and interactions, detailing the dynamics and resulting structures.
+Dataset: Images of interacting galaxies from the Hubble Space Telescope.
+Deep Field Surveys:
+
+Description: Generate captions for deep field images, which show thousands of distant galaxies, describing notable objects and structures.
+Dataset: Hubble Deep Field and Ultra Deep Field images.
+Planetary Atmospheres:
+
+Description: Create captions for images of planets within our solar system, focusing on atmospheric conditions and weather patterns.
+Dataset: Planetary images from the Hubble Space Telescope and other missions like Juno for Jupiter.
+Globular Clusters:
+
+Description: Caption images of globular clusters, describing the distribution and characteristics of stars within these dense regions.
+Dataset: Images of globular clusters from the Hubble Space Telescope.
+Cosmic Web Structure:
+
+Description: Generate captions for large-scale images showing the cosmic web, detailing the distribution of galaxies and dark matter.
+Dataset: Observational data and simulations from various astronomical surveys, including Hubble and SDSS.
